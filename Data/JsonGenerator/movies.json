@@ -1,0 +1,20 @@
+{ "index" : { "_index": "movies", "_id" : "0" } }
+{"director": "John Jones", "genre": ["turn", "disease"], "year": 1823, "actor": ["Tricia Mejias", "Alex Trible", "Peter Baldwin"], "title": "opens description"}
+{ "index" : { "_index": "movies", "_id" : "1" } }
+{"director": "Gilma Harmon", "genre": ["maternity", "deleted"], "year": 1927, "actor": ["Jacob Gaynor", "Charles Reed", "Kelly Nicholls"], "title": "owns published"}
+{ "index" : { "_index": "movies", "_id" : "2" } }
+{"director": "Arnold Lackey", "genre": ["comm", "productive"], "year": 1925, "actor": ["Wilfred Griffin", "Noah Santiago", "Rolando Magano"], "title": "ability rob"}
+{ "index" : { "_index": "movies", "_id" : "3" } }
+{"director": "Marvin Mccracken", "genre": ["local", "blade"], "year": 1961, "actor": ["Leonel Shen", "Elva Boyle", "Heather Harley"], "title": "buffalo newbie"}
+{ "index" : { "_index": "movies", "_id" : "4" } }
+{"director": "Yvonne Obermeyer", "genre": ["instructor", "this"], "year": 1939, "actor": ["Willie White", "Carolyn Brooks", "April Rodriguez"], "title": "ips earnings"}
+{ "index" : { "_index": "movies", "_id" : "5" } }
+{"director": "Danny Carter", "genre": ["forbes", "saved"], "year": 1960, "actor": ["Elsa Parker", "Stacey Voris", "Sally Smith"], "title": "bright roller"}
+{ "index" : { "_index": "movies", "_id" : "6" } }
+{"director": "Ben Flamer", "genre": ["pb", "gd"], "year": 1909, "actor": ["Marion Mckenny", "Paul Mcdaniels", "Trudy Breckenridge"], "title": "tit preceding"}
+{ "index" : { "_index": "movies", "_id" : "7" } }
+{"director": "Mary Gelinas", "genre": ["searchcom", "negative"], "year": 1931, "actor": ["Bruce Wilson", "Robert Capley", "Sharon Cook"], "title": "mexico the"}
+{ "index" : { "_index": "movies", "_id" : "8" } }
+{"director": "Margaret Donnell", "genre": ["villas", "dramatic"], "year": 1890, "actor": ["Al Bailey", "Marlene Siler", "Emil Browder"], "title": "sf mali"}
+{ "index" : { "_index": "movies", "_id" : "9" } }
+{"director": "George Lee", "genre": ["uniprotkb", "guided"], "year": 1957, "actor": ["George Macgregor", "Kevin Pettaway", "Kayla Jenkins"], "title": "feeds windsor"}

@@ -1,18 +1,11 @@
-[2021-11-22T03:17:46,894][INFO ][o.e.x.m.MlDailyMaintenanceService] [DESKTOP-DMIHS81] triggering scheduled [ML] maintenance tasks
-[2021-11-22T03:17:46,893][WARN ][o.e.t.ThreadPool         ] [DESKTOP-DMIHS81] timer thread slept for [3h/10800189ms] on absolute clock which is above the warn threshold of [5000ms]
-[2021-11-22T03:17:47,202][WARN ][o.e.t.ThreadPool         ] [DESKTOP-DMIHS81] timer thread slept for [3h/10800199018000ns] on relative clock which is above the warn threshold of [5000ms]
-[2021-11-22T03:17:47,416][INFO ][o.e.x.m.a.TransportDeleteExpiredDataAction] [DESKTOP-DMIHS81] Deleting expired data
-[2021-11-22T03:17:47,840][INFO ][o.e.x.m.j.r.UnusedStatsRemover] [DESKTOP-DMIHS81] Successfully deleted [0] unused stats documents
-[2021-11-22T03:17:47,843][INFO ][o.e.x.m.a.TransportDeleteExpiredDataAction] [DESKTOP-DMIHS81] Completed deletion of expired ML data
-[2021-11-22T03:17:47,844][INFO ][o.e.x.m.MlDailyMaintenanceService] [DESKTOP-DMIHS81] Successfully completed [ML] maintenance task: triggerDeleteExpiredDataTask
-[2021-11-22T10:05:29,966][WARN ][o.e.t.ThreadPool         ] [DESKTOP-DMIHS81] timer thread slept for [6.7h/24445713ms] on absolute clock which is above the warn threshold of [5000ms]
-[2021-11-22T10:05:29,968][WARN ][o.e.t.ThreadPool         ] [DESKTOP-DMIHS81] timer thread slept for [6.7h/24457772394300ns] on relative clock which is above the warn threshold of [5000ms]
-[2021-11-22T13:18:23,559][INFO ][o.e.x.s.SnapshotRetentionTask] [DESKTOP-DMIHS81] starting SLM retention snapshot cleanup task
-[2021-11-22T13:18:23,614][INFO ][o.e.x.s.SnapshotRetentionTask] [DESKTOP-DMIHS81] there are no repositories to fetch, SLM retention snapshot cleanup task complete
-[2021-11-22T16:04:27,822][WARN ][o.e.t.ThreadPool         ] [DESKTOP-DMIHS81] timer thread slept for [18.2m/1093330ms] on absolute clock which is above the warn threshold of [5000ms]
-[2021-11-22T16:04:27,849][WARN ][o.e.t.ThreadPool         ] [DESKTOP-DMIHS81] timer thread slept for [18.2m/1093339953900ns] on relative clock which is above the warn threshold of [5000ms]
-[2021-11-22T16:04:27,847][WARN ][o.e.m.f.FsHealthService  ] [DESKTOP-DMIHS81] health check of [E:\Facultate\An3-Sem1\Proiect cercetare\ResearchProject\researchProject\Data\ElasticSearch\elasticsearch-7.15.2\data\nodes\0] took [1093340ms] which is above the warn threshold of [5s]
-[2021-11-22T16:40:03,515][WARN ][o.e.t.ThreadPool         ] [DESKTOP-DMIHS81] timer thread slept for [5.1m/308241ms] on absolute clock which is above the warn threshold of [5000ms]
-[2021-11-22T16:40:03,516][WARN ][o.e.t.ThreadPool         ] [DESKTOP-DMIHS81] timer thread slept for [5.1m/308251070300ns] on relative clock which is above the warn threshold of [5000ms]
-[2021-11-22T17:39:19,674][WARN ][o.e.t.ThreadPool         ] [DESKTOP-DMIHS81] timer thread slept for [11.2m/676354ms] on absolute clock which is above the warn threshold of [5000ms]
-[2021-11-22T17:39:19,675][WARN ][o.e.t.ThreadPool         ] [DESKTOP-DMIHS81] timer thread slept for [11.2m/676363648700ns] on relative clock which is above the warn threshold of [5000ms]
+[2021-11-23T03:58:18,916][WARN ][o.e.t.ThreadPool         ] [DESKTOP-DMIHS81] timer thread slept for [2.9h/10797802ms] on absolute clock which is above the warn threshold of [5000ms]
+[2021-11-23T03:58:18,911][INFO ][o.e.x.m.MlDailyMaintenanceService] [DESKTOP-DMIHS81] triggering scheduled [ML] maintenance tasks
+[2021-11-23T03:58:19,117][WARN ][o.e.t.ThreadPool         ] [DESKTOP-DMIHS81] timer thread slept for [2.9h/10797811651700ns] on relative clock which is above the warn threshold of [5000ms]
+[2021-11-23T03:58:19,220][INFO ][o.e.x.m.a.TransportDeleteExpiredDataAction] [DESKTOP-DMIHS81] Deleting expired data
+[2021-11-23T03:58:19,443][INFO ][o.e.x.m.j.r.UnusedStatsRemover] [DESKTOP-DMIHS81] Successfully deleted [0] unused stats documents
+[2021-11-23T03:58:19,450][INFO ][o.e.x.m.a.TransportDeleteExpiredDataAction] [DESKTOP-DMIHS81] Completed deletion of expired ML data
+[2021-11-23T03:58:19,451][INFO ][o.e.x.m.MlDailyMaintenanceService] [DESKTOP-DMIHS81] Successfully completed [ML] maintenance task: triggerDeleteExpiredDataTask
+[2021-11-23T11:21:36,940][WARN ][o.e.t.ThreadPool         ] [DESKTOP-DMIHS81] timer thread slept for [7.3h/26579400ms] on absolute clock which is above the warn threshold of [5000ms]
+[2021-11-23T11:21:36,954][WARN ][o.e.t.ThreadPool         ] [DESKTOP-DMIHS81] timer thread slept for [7.3h/26593524296400ns] on relative clock which is above the warn threshold of [5000ms]
+[2021-11-23T14:27:35,395][INFO ][o.e.x.s.SnapshotRetentionTask] [DESKTOP-DMIHS81] starting SLM retention snapshot cleanup task
+[2021-11-23T14:27:35,467][INFO ][o.e.x.s.SnapshotRetentionTask] [DESKTOP-DMIHS81] there are no repositories to fetch, SLM retention snapshot cleanup task complete
